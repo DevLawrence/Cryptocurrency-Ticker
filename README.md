@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### npm install axios --save
+In the project folder, run npm install axios --save to install axios.
+
 ## Available Scripts
 
 In the project directory, you can run:
