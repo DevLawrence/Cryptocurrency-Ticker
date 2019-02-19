@@ -65,7 +65,7 @@ class Tickers extends Component{
 		return (
 			<div className="tickers-container">
 				<ul className="tickers"> {tickers} </ul>
-				<p> Information updated every minute courtesy of <b> coinmarketcap.com </b> </p>
+				<p> Information updated every minute courtesy of <b><a href="https://coinmarketcap.com/" target="_blank" rel="noopener noreferrer"> coinmarketcap.com </a></b> </p>
 			</div>
 		);
 }
